@@ -1,2 +1,2 @@
 # github-final-project
-spelled the last one wrong 
+https://github.com/smchilcote0/github-final-project
